@@ -13,7 +13,7 @@ const Contact = () => {
             <h2></h2>
           </div>
           <div className="col-lg-6 bg-dark text-light text-center">
-            <h2>Nous Contacter</h2>
+            <h2>Nous Kontacter</h2>
           </div>
         </div>
       </div>
