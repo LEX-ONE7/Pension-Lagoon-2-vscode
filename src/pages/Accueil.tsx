@@ -13,7 +13,7 @@ const Accueil = () => {
 
           <h2 className="fw-normal mt-4">Séjour Edénique</h2>
           <p className="fs-4">
-            Ambiance « full lagon », optez pour l'un de nos Bungalows sur
+            Ambince « full lagon », optez pour l'un de nos Bungalows sur
             pilotis à fond de verre, permettant d’admirer la faune et la flore
             pendant les soins.
           </p>
